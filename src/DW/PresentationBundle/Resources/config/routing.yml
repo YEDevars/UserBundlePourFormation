@@ -1,0 +1,7 @@
+DWUserBundle_user:
+        resource: "@DWUserBundle/Resources/config/routing/user.yml"
+        prefix:   /manage-users
+
+DWUserBundle_role:
+        resource: "@DWUserBundle/Resources/config/routing/role.yml"
+        prefix:   /manage-roles
