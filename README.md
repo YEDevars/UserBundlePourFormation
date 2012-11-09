@@ -14,3 +14,6 @@ Mettre les infos de l'expéditeur :
     transport: gmail
     username:  your@mail.com
     password:  yourPASSWORD
+
+
+Pour me faire part de vos commentaires ou me contacter : yann-eric@live.fr
