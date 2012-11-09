@@ -16,4 +16,8 @@ Mettre les infos de l'expéditeur :
     password:  yourPASSWORD
 
 
+
+Aller voir dans le wiki pour les détails concernant le bundle
+
 Pour me faire part de vos commentaires ou me contacter : yann-eric@live.fr
+
