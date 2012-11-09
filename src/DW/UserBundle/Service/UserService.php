@@ -1,5 +1,7 @@
 <?php
-
+/**
+ * @author Yann-Eric <yann-eric@live.fr>
+ */
 namespace DW\UserBundle\Service;
 use Doctrine\ORM\EntityManager;
 use DW\UserBundle\Entity\User;

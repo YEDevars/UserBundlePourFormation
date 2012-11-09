@@ -1,5 +1,7 @@
 <?php
-
+/**
+ * @author Yann-Eric <yann-eric@live.fr>
+ */
 namespace DW\UserBundle\Controller;
 
 use Symfony\Component\HttpFoundation\Request;

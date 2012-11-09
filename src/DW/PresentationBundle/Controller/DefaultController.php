@@ -1,5 +1,7 @@
 <?php
-
+/**
+ * @author Yann-Eric <yann-eric@live.fr>
+ */
 namespace DW\PresentationBundle\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
